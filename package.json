@@ -87,6 +87,10 @@
         "path": "./snippets/php.json"
       },
       {
+        "language": "quarto",
+        "path": "./snippets/quarto.json"
+      },
+      {
         "language": "rescript",
         "path": "./snippets/rescript.json"
       },
@@ -123,6 +127,10 @@
         "path": "./snippets/sql.json"
       },
       {
+        "language": "systemverilog",
+        "path": "./snippets/systemverilog.json"
+      },
+      {
         "language": [
           "shellscript",
           "shell",
@@ -154,6 +162,10 @@
         "path": "./snippets/java.json"
       },
       {
+        "language": "java-testing",
+        "path": "./snippets/java/java-tests.json"
+      },
+      {
         "language": "julia",
         "path": "./snippets/julia.json"
       },
@@ -162,7 +174,10 @@
           "html",
           "jade",
           "pug",
-          "eruby"
+          "eruby",
+          "javascriptreact",
+          "htmldjango",
+          "astro"
         ],
         "path": "./snippets/html.json"
       },
@@ -201,12 +216,27 @@
         "path": "./snippets/javascript/react-native.json"
       },
       {
+        "language": "javascriptreact",
+        "path": "./snippets/javascript/next.json"
+      },
+      {
         "language": "typescriptreact",
         "path": "./snippets/javascript/react-ts.json"
       },
       {
         "language": "typescriptreact",
+        "path": "./snippets/javascript/next-ts.json"
+      },
+      {
+        "language": "typescriptreact",
         "path": "./snippets/javascript/react-native-ts.json"
+      },
+      {
+        "language": [
+          "javascriptreact",
+          "typescriptreact"
+        ],
+        "path": "./snippets/javascript/react-es7.json"
       },
       {
         "language": "svelte",
@@ -273,7 +303,10 @@
         "path": "./snippets/frameworks/django/views.json"
       },
       {
-        "language": "djangohtml",
+        "language": [
+          "djangohtml",
+          "htmldjango"
+        ],
         "path": "./snippets/frameworks/djangohtml.json"
       },
       {
@@ -362,6 +395,10 @@
         "path": "./snippets/kubernetes.json"
       },
       {
+        "language": "yaml",
+        "path": "./snippets/docker/docker-compose.json"
+      },
+      {
         "language": "make",
         "path": "./snippets/make.json"
       },
@@ -372,6 +409,22 @@
       {
         "language": "objc",
         "path": "./snippets/objc.json"
+      },
+      {
+        "language": "unreal",
+        "path": "./snippets/frameworks/unreal.json"
+      },
+      {
+        "language": "verilog",
+        "path": "./snippets/verilog.json"
+      },
+      {
+        "language": "dockerfile",
+        "path": "./snippets/docker/docker_file.json"
+      },
+      {
+        "language": "edge",
+        "path": "./snippets/frameworks/edge.json"
       }
     ]
   }
